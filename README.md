@@ -1,4 +1,4 @@
-<h1><b>Hello, I'm Arinjay Kumar</b></h1>
+<h1><b>Hello/Guten Hag/Bonjour/Namaste, I'm Arinjay Kumar</b></h1>
 
 - 👋 Hi, I’m @CodClever
 - 👀 I’m interested in Software Development, Coding, Programming, White-Hat Hacking, Football, Cricket and Badminton
