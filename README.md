@@ -10,17 +10,23 @@
 <h1><b>People who have patience:</b></h1>
 I am a passionate software engineer/developer, coder, programmer, video editor, web designer, and modeler. I live in this world of internet to meet nice and confident people. I live in Maharashtra, India. I am a north-Indian guy mostly from Delhi NCR/NCT (near Dwarka)but was born in a village near Kolkata, West Bengal. I got my education from 1. Rich Harvest Public School(R. H. P. S. ), Delhi 2. Dayanand Anglo Vedic(D. A. V. ) Public School, Aundh, Pune. I have quite an experience in the North, East, and Southern parts of India. 
 
-<h1><b>Check out my websites, apps, and work by clicking on the links below:-</b></h1>
+<h1><b>Let's Connect 🌐:- </b></h1>
 
-Main Website: https://colarad.my.canva.site/colarad
+<b>Carrd:</b> https://arinjaykumar.carrd.co/
+<b>LinkTree:</b> https://linktr.ee/CodClever
+<b>BioDrop:</b> https://www.biodrop.io/CodClever
 
-My AI app: https://chat-dnmx.vercel.app/
+                   OR
 
-Twitter(Now Known As X): https://twitter.com/CodClever7k
+<b>Main Website:</b> https://colarad.my.canva.site/colarad
 
-Discord: arinjaykumar(CodClever)
+<b>My AI app:</b> https://chat-dnmx.vercel.app/
 
-Twitch: https://www.twitch.tv/codclever
+<b>Twitter(Now Known As X):</b> https://twitter.com/CodClever7k
+
+<b>Discord:</b> arinjaykumar(CodClever)
+
+<b>Twitch:</b> https://www.twitch.tv/codclever
 
 <h1><b>WakaTime:</b></h1>
 
