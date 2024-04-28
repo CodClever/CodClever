@@ -33,7 +33,7 @@ Twitch: https://www.twitch.tv/codclever
 <h1><b>Skills:</b></h1> 
 
 
-[![My Skills](https://skillicons.dev/icons?=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,LinkedIn,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,LinkedIn,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=3)](https://skillicons.dev)
 
 <!---
 CodClever/CodClever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
