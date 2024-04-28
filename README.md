@@ -20,7 +20,7 @@ Discord: arinjaykumar(CodClever)
 
 Twitch: https://www.twitch.tv/codclever
 
-StackOverflow:
+<h1><b>StackOverflow:</b></h1>
 
 
 <a href="https://stackoverflow.com/users/23567323/arinjay-kumar"><img src="https://stackoverflow.com/users/flair/23567323.png" width="208" height="58" alt="profile for Arinjay Kumar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Arinjay Kumar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
@@ -29,6 +29,11 @@ StackOverflow:
 
 
 <a href="https://app.daily.dev/codclever"><img src="https://api.daily.dev/devcards/v2/k1IIp8eVY6m6AKPashui4.png?type=wide&r=ljt" width="652" alt="Arinjay's Dev Card"/></a>
+
+<h1><b>Skills:</b></h1> 
+
+
+[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,LinkedIn,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=3)](https://skillicons.dev)
 
 <!---
 CodClever/CodClever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
