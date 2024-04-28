@@ -20,6 +20,8 @@ I am a passionate software engineer/developer, coder, programmer, video editor, 
 
 <b>Main Website:</b> https://colarad.my.canva.site/colarad
 
+<h1><b>Resume:</b></h1> https://drive.google.com/file/d/11nQUE4FrHPm56PcrbhYYg-p2krIyEUIa/view?usp=drive_link
+
 <b>My AI app:</b> https://chat-dnmx.vercel.app/
 
 <b>Twitter(Now Known As X):</b> https://twitter.com/CodClever7k
