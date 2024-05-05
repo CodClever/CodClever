@@ -8,10 +8,10 @@
 - 📫 How to reach me: Contact me in private through my social profile.<br><br>
 
 <h1><b>People who have patience:</b></h1>
-I am a passionate software engineer/developer, coder, programmer, video editor, web designer, and modeler. I live in this world of 
-internet to meet nice and confident people. I live in Maharashtra, India. I am a north-Indian guy mostly from Delhi NCR/NCT (near 
-Dwarka)but was born in a village near Kolkata, West Bengal. I got my education from 1. Rich Harvest Public School(R. H. P. S. ), 
-Delhi 2. Dayanand Anglo Vedic(D. A. V. ) Public School, Aundh, Pune. I have quite an experience in the North, East, and Southern parts
+I am a passionate software engineer/developer, coder, programmer, video editor, web designer, and modeler. I live in this world of<br>
+internet to meet nice and confident people. I live in Maharashtra, India. I am a north-Indian guy mostly from Delhi NCR/NCT (near<br>
+Dwarka)but was born in a village near Kolkata, West Bengal. I got my education from 1. Rich Harvest Public School(R. H. P. S. ),<br>
+Delhi 2. Dayanand Anglo Vedic(D. A. V. ) Public School, Aundh, Pune. I have quite an experience in the North, East, and Southern parts<br> 
 of India. 
 
 <h1><b>Let's Connect 🌐:- </b></h1>
@@ -59,10 +59,7 @@ of India.
 <h1><b>Skills 👨‍💻:</b></h1> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,
-linkedin,nextjs,nodejs,notion,npm,ps,php,
-powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,
-,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,linkedin,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=10)](https://skillicons.dev)
 
 <!---
 CodClever/CodClever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
