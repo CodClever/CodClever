@@ -17,8 +17,11 @@ of India.
 <h1><b>Let's Connect 🌐:- </b></h1>
 
 <b>Carrd:</b> https://arinjaykumar.carrd.co/<b><b>
+
 <b>LinkTree:</b> https://linktr.ee/CodClever<b><b>
+
 <b>BioDrop:</b> https://www.biodrop.io/CodClever<b><b>
+
 <b>Direct.Me</b> https://direct.me/codclever<b><b>
 
                    OR
