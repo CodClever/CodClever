@@ -15,6 +15,7 @@ I am a passionate software engineer/developer, coder, programmer, video editor, 
 <b>Carrd:</b> https://arinjaykumar.carrd.co/
 <b>LinkTree:</b> https://linktr.ee/CodClever
 <b>BioDrop:</b> https://www.biodrop.io/CodClever
+<b>Direct.Me</b> https://direct.me/codclever
 
                    OR
 
