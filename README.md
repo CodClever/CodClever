@@ -28,24 +28,24 @@ of India.
 
                    OR
 
-<b>Main Website:</b> https://colarad.my.canva.site/colarad
+<b>Main Website: </b> https://zodiac-ai.mailchimpsites.com
 
-<b>Resume:</b> https://drive.google.com/file/d/11nQUE4FrHPm56PcrbhYYg-p2krIyEUIa/view?usp=drive_link
+<b>Resume: </b> https://drive.google.com/file/d/11nQUE4FrHPm56PcrbhYYg-p2krIyEUIa/view?usp=drive_link
 
-<b>My AI app:</b> https://chat-dnmx.vercel.app/
+<b>My AI app: </b> https://chat-dnmx.vercel.app/
 
-<b>Twitter(Now Known As X):</b> https://twitter.com/CodClever7k
+<b>Twitter(Now Known As X): </b> https://twitter.com/CodClever7k
 
-<b>Discord:</b> arinjaykumar(CodClever)
+<b>Discord: </b> arinjaykumar(CodClever)
 
-<b>Twitch:</b> https://www.twitch.tv/codclever
+<b>Twitch: </b> https://www.twitch.tv/codclever
 
 <h1><b>WakaTime ⌛:</b></h1>
 
 
 <a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
 
-<h1><b>StackOverflow :</b></h1>
+<h1><b>Stack Overflow :</b></h1>
 
 
 <a href="https://stackoverflow.com/users/23567323/arinjay-kumar"><img src="https://stackoverflow.com/users/flair/23567323.png" width="208"
