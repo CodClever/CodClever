@@ -43,8 +43,7 @@ of India.
 <h1><b>WakaTime ⌛:</b></h1>
 
 
-<a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-93
-                                                                       1ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
+<a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
 
 <h1><b>StackOverflow :</b></h1>
 
