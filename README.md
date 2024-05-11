@@ -16,7 +16,7 @@ of India.
 
 <h1><b>Let's Connect 🌐:- </b></h1>
 
-<b>Carrd: </b> https://arinjaykumar.carrd.co/<b><b>
+<b>Carrd: </b> https://arinjaykumar.carrd.co<b><b>
 
 <b>LinkTree: </b> https://linktr.ee/CodClever<b><b>
 
@@ -32,13 +32,13 @@ of India.
 
 <h2>Other Websites:- </h2>
 
-<b>1.) </b> https://zodiac-45867192.hubspotpagebuilder.com/en-in/
+<b>1.) </b> https://zodiac-45867192.hubspotpagebuilder.com/en-in
 
 <b>2.) </b> https://colarad.my.canva.site/zodiac
 
 <b>Resume: </b> https://drive.google.com/file/d/11nQUE4FrHPm56PcrbhYYg-p2krIyEUIa/view?usp=drive_link
 
-<b>My AI app: </b> https://chat-dnmx.vercel.app/
+<b>My AI app: </b> https://chat-dnmx.vercel.app
 
 <b>Twitter(Now Known As X): </b> https://twitter.com/CodClever7k
 
