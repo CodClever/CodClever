@@ -28,6 +28,9 @@ of India.
 
                    OR
 
+
+<br><br>
+
 <b>Main Website: </b> https://zodiac-ai.mailchimpsites.com
 
 <h2>Other Websites:- </h2>
@@ -35,6 +38,9 @@ of India.
 <b>1.) </b> https://zodiac-45867192.hubspotpagebuilder.com/en-in
 
 <b>2.) </b> https://colarad.my.canva.site/zodiac
+
+<br><br>
+
 
 <b>Resume: </b> https://drive.google.com/file/d/11nQUE4FrHPm56PcrbhYYg-p2krIyEUIa/view?usp=drive_link
 
