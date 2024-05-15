@@ -35,7 +35,7 @@ of India.
 
 <h2>Other Websites:- </h2>
 
-<b>1.) </b> https://zodiac-45867192.hubspotpagebuilder.com/en-in
+<b>1.) </b> https://zodiac-45867192.hubspotpagebuilder.com/en-in/
 
 <b>2.) </b> https://colarad.my.canva.site/zodiac
 
