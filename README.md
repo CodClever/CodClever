@@ -50,7 +50,7 @@ of India.
 
 <b>Twitter(Now Known As X): </b> https://twitter.com/CodClever7k
 
-<b>Discord: </b> arinjaykumar(CodClever)
+<b>Discord: </b> arinjayk(CodClever)
 
 <b>Twitch: </b> https://www.twitch.tv/codclever
 
