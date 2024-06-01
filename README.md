@@ -1,4 +1,5 @@
 <h1><b>Hello, I'm Arinjay Kumar👋</b></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stop+it+!;Touch+some+grass)](https://git.io/typing-svg)
 
 <h1><b>For TL;DR people:</b></h1>
 - 👋 Hi, I’m @CodClever<br>
@@ -53,9 +54,6 @@ of India.
 <b>Discord: </b> arinjayk(CodClever)
 
 <b>Twitch: </b> https://www.twitch.tv/codclever
-
-
-<h2>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stop+it+!;Touch+some+grass)](https://git.io/typing-svg)</h2>
 
 
 <h1><b>WakaTime ⌛:</b></h1>
