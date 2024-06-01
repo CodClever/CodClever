@@ -60,7 +60,7 @@ of India.
 <b>Bitly: </b> https://bit.ly/m/arinjaykumar
 
 
-                   OR
+                   "OR"
 
 
 
@@ -89,7 +89,7 @@ of India.
 
 ![Arinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codclever&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
-"OR"
+                     "OR"
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codclever&theme=dark&background=000000)](https://git.io/streak-stats)
 
