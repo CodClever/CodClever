@@ -85,9 +85,13 @@ of India.
 
 <b>Twitch: </b> https://www.twitch.tv/codclever
 
-<h1><b>Stats: </b></h1>
+<h1><b>🔥🔥 Stats: </b></h1>
 
 ![Arinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codclever&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+
+"OR"
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codclever&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h1><b>Skills 👨‍💻:</b></h1> 
 
