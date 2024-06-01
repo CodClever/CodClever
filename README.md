@@ -70,6 +70,15 @@ of India.
 
 <b>Twitch: </b> https://www.twitch.tv/codclever
 
+<h1><b>Stats: </b></h1>
+
+[![Arinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codclever)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1><b>Skills 👨‍💻:</b></h1> 
+
+
+[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,linkedin,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=10)](https://skillicons.dev)
+
 
 <h1><b>WakaTime ⌛:</b></h1>
 
@@ -90,11 +99,6 @@ of India.
 
 <a href="https://app.daily.dev/codclever"><img src="https://api.daily.dev/devcards/v2/k1IIp8eVY6m6AKPashui4.png?type=wide&r=ljt" width="652"
                                             alt="Arinjay's Dev Card"/></a>
-
-<h1><b>Skills 👨‍💻:</b></h1> 
-
-
-[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,linkedin,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=10)](https://skillicons.dev)
 
 <!---
 CodClever/CodClever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
