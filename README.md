@@ -81,9 +81,6 @@ of India.
 [![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,codepen,css,devto,discord,figma,firebase,flask,git,github,gmail,heroku,html,js,linkedin,nextjs,nodejs,notion,npm,ps,php,powershell,pycharm,py,pytorch,react,replit,robloxstudio,sublime,supabase,tensorflow,twitter,unity,unreal,vim,vite,vscode,vue,windows,wordpress,,&perline=10)](https://skillicons.dev)
 
 
-<h1><b>WakaTime ⌛:</b></h1>
-![Arinjay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codclever)
-
 <h1><b>Stack Overflow :</b></h1>
 
 
