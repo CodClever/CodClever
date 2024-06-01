@@ -7,7 +7,14 @@
 
 <img align="left" width="200" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcyMjQwMDEsIm5iZiI6MTcxNzIyMzcwMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAxVDA2MzUwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkMTdlZWE2MmY0NTkwZDA5ZTZkYzcwZjAzYzljOWRiM2ZkYTg5MWVlOGRiOGE2N2MyMDcxMmFmYTJjMWZmMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.K-z3gASwuWadcEI7etbro0BM4i6JxB2U4pBKLyEc6ZU" />
 <h1><b> I'm Arinjay Kumar👋</b></h1>
-<a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
+</div>
+
 <h3>Some Advice: </h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=28&pause=1000&random=false&width=435&lines=Task%3A+Touch+Grass(Pending)" alt="Typing SVG" /></a>
 
