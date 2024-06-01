@@ -18,6 +18,7 @@
   <a href="https://x.com/CodClever7k">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br>
   <a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
 </div>
 
