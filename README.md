@@ -82,9 +82,7 @@ of India.
 
 
 <h1><b>WakaTime ⌛:</b></h1>
-[![Arinjay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodClever)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
+![Arinjay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodClever)]
 
 <h1><b>Stack Overflow :</b></h1>
 
