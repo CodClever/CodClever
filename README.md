@@ -48,7 +48,6 @@ of India.
                    OR
 
 
-<br><br>
 
 <b>Main Website: </b> https://zodiac-ai.mailchimpsites.com
 
