@@ -1,5 +1,5 @@
 <h1><b>Hello, I'm Arinjay Kumar👋</b></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+you+are+seeing+this!;Then,+Please+Touch+Some+Grass+guys+!!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&pause=1000&random=false&width=435&lines=If+you+are+seeing+this...;Then+please+touch+some+grass+guys!!;Take+some+break+and+then+start+again" alt="Typing SVG" /></a>
 
 <h1><b>For TL;DR people:</b></h1>
 - 👋 Hi, I’m @CodClever<br>
