@@ -82,7 +82,7 @@ of India.
 
 
 <h1><b>WakaTime ⌛:</b></h1>
-![Arinjay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodClever)]
+[![Arinjay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodClever)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1><b>Stack Overflow :</b></h1>
 
