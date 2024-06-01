@@ -72,7 +72,7 @@ of India.
 
 <h1><b>Stats: </b></h1>
 
-![Arinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codclever&show_icons=true&theme=radical)
+![Arinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codclever&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
 <h1><b>Skills 👨‍💻:</b></h1> 
 
