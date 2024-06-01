@@ -21,7 +21,7 @@
   <a href="https://wakatime.com/@4cce7c90-a22e-48b6-b2a1-931ec33f2c16"><img src="https://wakatime.com/badge/user/4cce7c90-a22e-48b6-b2a1-931ec33f2c16.svg" alt="Total time coded since Apr 28 2024" /></a>
 </div>
 
-
+<br>
 <h3>Some Advice: </h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=28&pause=1000&random=false&width=435&lines=Task%3A+Touch+Grass(Pending)" alt="Typing SVG" /></a>
 
