@@ -12,8 +12,7 @@
 
 
 
-
-![octocat-1717223245176](https://github.com/CodClever/CodClever/assets/155444697/8f2dd412-c48e-4187-abaf-7f1d394d6106)
+<p1>![octocat-1717223245176](https://github.com/CodClever/CodClever/assets/155444697/8f2dd412-c48e-4187-abaf-7f1d394d6106)</p1>
 
 
 
