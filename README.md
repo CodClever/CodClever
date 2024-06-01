@@ -11,8 +11,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=28&pause=1000&random=false&width=435&lines=Task%3A+Touch+Grass(Pending)" alt="Typing SVG" /></a>
 
 
+<img src="https://github.com/CodClever/CodClever/assets/155444697/8f2dd412-c48e-4187-abaf-7f1d394d6106" width="100" height="100">
 
-<p1>![octocat-1717223245176](https://github.com/CodClever/CodClever/assets/155444697/8f2dd412-c48e-4187-abaf-7f1d394d6106)</p1>
 
 
 
