@@ -55,7 +55,7 @@ of India.
 <b>Twitch: </b> https://www.twitch.tv/codclever
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stop+it+!;Touch+some+grass)](https://git.io/typing-svg)
+<h2>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stop+it+!;Touch+some+grass)](https://git.io/typing-svg)</h2>
 
 
 <h1><b>WakaTime ⌛:</b></h1>
