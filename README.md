@@ -82,7 +82,7 @@ of India.
 
 <b>Twitter(Now Known As X): </b> https://twitter.com/CodClever7k
 
-<b>Discord: </b> codclever(CodClever)
+<b>Discord: </b> codclever(ʙʟᴀᴄᴋʀᴏᴄᴋ)
 
 <b>Twitch: </b> https://www.twitch.tv/codclever
 
