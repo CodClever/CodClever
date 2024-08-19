@@ -116,6 +116,8 @@ of India.
 <a href="https://app.daily.dev/codclever"><img src="https://api.daily.dev/devcards/v2/k1IIp8eVY6m6AKPashui4.png?type=wide&r=ljt" width="652"
                                             alt="Arinjay's Dev Card"/></a>
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <!---
 CodClever/CodClever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
