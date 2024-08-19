@@ -116,7 +116,11 @@ of India.
 <a href="https://app.daily.dev/codclever"><img src="https://api.daily.dev/devcards/v2/k1IIp8eVY6m6AKPashui4.png?type=wide&r=ljt" width="652"
                                             alt="Arinjay's Dev Card"/></a>
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <!---
