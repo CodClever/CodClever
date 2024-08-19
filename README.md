@@ -116,9 +116,8 @@ of India.
 <a href="https://app.daily.dev/codclever"><img src="https://api.daily.dev/devcards/v2/k1IIp8eVY6m6AKPashui4.png?type=wide&r=ljt" width="652"
                                             alt="Arinjay's Dev Card"/></a>
 
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.2.0
 
 
 <!---
