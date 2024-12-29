@@ -50,16 +50,7 @@ of India.
 
 <b>Carrd: </b> https://arinjaykumar.carrd.co<b><b>
 
-<b>LinkTree: </b> https://linktr.ee/CodClever<b><b>
-
-<b>BioDrop: </b> https://www.biodrop.io/CodClever<b><b>
-
-<b>Gravatar: </b> https://gravatar.com/codclever<b><b>
-
-<b>Direct.Me: </b> https://direct.me/codclever<b><b>
-
-<b>Bitly: </b> https://bit.ly/m/arinjaykumar
-
+ 
 
                    "OR"
 
