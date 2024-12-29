@@ -6,7 +6,7 @@
 
 
 <img align="left" width="200" src="https://i.ytimg.com/vi/zDhBJ4w0TP8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAxB_TQKWV9Pfj3dNzZtsn13XTEZw" />
-<h1><b> I'm Arinjay Kumar👋</b></h1>
+<h1><b> I'm CodClever👋</b></h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/arinjaykumar777">
