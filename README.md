@@ -9,7 +9,7 @@
 <h1><b> I'm CodClever👋</b></h1>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/arinjaykumar777">
+  <a href="https://www.linkedin.com/in/codclever">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC-H18Zx_r7mHgKRLWouEvbQ">
