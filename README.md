@@ -48,7 +48,7 @@ of India.
 
 <h1><b>Let's Connect 🌐:- </b></h1>
 
-<b>Carrd: </b> https://arinjaykumar.carrd.co<b><b>
+<b>Carrd: </b> https://codclever.carrd.co<b><b>
 
  
 
