@@ -67,7 +67,6 @@ of India.
 <br><br>
 
 
-<b>Resume: </b> https://drive.google.com/file/d/11nQUE4FrHPm56PcrbhYYg-p2krIyEUIa/view?usp=drive_link
 
 <b>My AI app: </b> https://chat-dnmx.vercel.app
 
